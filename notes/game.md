@@ -1,4 +1,4 @@
-# MindNode
+# Game
 > Logic of the choice.
 
 ### Why Blockchain Games?
@@ -56,3 +56,11 @@ What is blockchain? A blockchain is a chain of blocks. Yep, actually!
   + 简洁轻量操作简单
   
   + 深度和哲学意味
+
++ 反思
+
+    + FOMO3D —— 区块链游戏与经济学实验？
+    
+    + 与特洛伊战争的比较 —— 众神削减人口
+
+    + 中本葱大战韭菜 —— 戏谑游戏

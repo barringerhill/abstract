@@ -1,4 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [MindNode](/notes/mindnode.md)
+* [Game](/notes/game.md)
+* [Machine](/notes/machine.md)
