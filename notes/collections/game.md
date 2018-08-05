@@ -64,6 +64,10 @@ What is blockchain? A blockchain is a chain of blocks. Yep, actually!
     + 与特洛伊战争的比较 —— 众神削减人口
 
     + 中本葱大战韭菜 —— 戏谑游戏
+    
+    + CreditLarvalabs —— 艺术品
+    
+    + 每一片雪花 —— 内容
 
 ### After the Blockchain Game
 特洛伊战争之后的事情
