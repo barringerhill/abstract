@@ -1,6 +1,11 @@
 # Game
 > Logic of the choice.
 
+### New
+
++ [区块链产业白皮书](https://mp.weixin.qq.com/s/qV-UmenMsZGxFQxUKKu46w)
+
+
 ### Why Blockchain Games?
 
 What is blockchain? A blockchain is a chain of blocks. Yep, actually!
