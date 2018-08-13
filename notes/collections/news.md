@@ -14,6 +14,8 @@
 
 + [众筹平台][6] —— Coinjinja
 
++ [广告业务][7] —— 链云 UST
+
 ### Projs
 
 + [Inblockchain](00)
@@ -31,6 +33,7 @@
 [4]: https://mixin.one
 [5]: https://aragon.one
 [6]: https://zh.coinjinja.com
+[7]: https://mp.weixin.qq.com/s/v4w0RpD88vvqF0TWTw6dqA
 
 
 [00]: http://www.inblockchain.com/project
