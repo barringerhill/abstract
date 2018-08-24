@@ -3,9 +3,7 @@
 <br/><br/>
 <div align="center"><img src="/assets/pics/amnesia.png"></div>
 
-#### 
-
-
+<br/><br/>
 <div align="center" style="display: flex; flex-direction: column; align-items: center; ">
 
 Lie to me if you will<br/><br/>
