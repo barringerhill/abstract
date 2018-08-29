@@ -1,4 +1,4 @@
-### Amnesia 
+# README
 
 <br/><br/>
 <div align="center"><img src="/assets/pics/amnesia.png"></div>

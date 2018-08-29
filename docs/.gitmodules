@@ -1,0 +1,18 @@
+[submodule "projs/uncharted"]
+	path = projs/uncharted
+	url = git@github.com:udtrokia/uncharted.git
+[submodule "projs/odditypark"]
+	path = projs/odditypark
+	url = git@github.com:udtrokia/odditypark.git
+[submodule "projs/tools/allblue"]
+	path = projs/tools/allblue
+	url = git@github.com:udtrokia/allblue.git
+[submodule "projs/hyperfox"]
+	path = projs/hyperfox
+	url = git@github.com:udtrokia/hyperfox.git
+[submodule "projs/tools/ms2p"]
+	path = projs/tools/ms2p
+	url = git@github.com:udtrokia/ms2p.git
+[submodule "projs/magicflute"]
+	path = projs/magicflute
+	url = git@github.com:udtrokia/magicflute.git
